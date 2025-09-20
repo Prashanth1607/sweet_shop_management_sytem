@@ -197,34 +197,77 @@ The combination of AI assistance and TDD methodology resulted in a robust, well-
 ## License
 
 ## Overview with Images
+
 <img width="1909" height="972" alt="image" src="https://github.com/user-attachments/assets/fe7c688d-5d40-4cec-af55-be7c142f1e59" />
 
 ## Home Page with sweets listing
+
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/99bf1437-7f5e-473a-b584-f904ad2dcd32" />
 
 ## Footer Page
+
 <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/b35a5f43-7b49-4758-b380-c988be9edcf4" />
 
 ## Contact us Page
+
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/7a65c5bd-3eba-41b8-8d89-2d0507eab035" />
 
 ## Bulk order Page
+
 <img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/5d1abd92-a371-4b63-a564-0f485becbdb8" />
 
 ## Admin workflow
 
 ## Admin Login
+
 <img width="1912" height="958" alt="image" src="https://github.com/user-attachments/assets/d2937e90-c740-46af-a1e8-e3c5cc034933" />
 
 ## Admin Panel
+
 <img width="1919" height="584" alt="image" src="https://github.com/user-attachments/assets/714d3355-2602-4273-82a0-e34950fe0a31" />
 
 ## Inventory Management with search and filtering
+
 <img width="1895" height="921" alt="image" src="https://github.com/user-attachments/assets/ba5bc92e-0e85-4c2c-b4ad-a9d52e55c15d" />
 
 ## Stock edit option
+
 <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/4e973c1f-dd17-4727-ad5b-1d7d17b2175a" />
 
 ## Admin Sweet adding page
+
 <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/3de07d14-4968-4dfd-bb2f-b6862db30270" />
 
+## customer flow
+
+## Register page for new customer
+
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/0057a2ad-c375-431b-bcc9-fee1403fc5cb" />
+
+## Customer login page
+
+<img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/372a92e0-e467-420a-967d-d21426070858" />
+
+## Customer home page
+
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/4b976230-50ee-458f-a930-81d85c6ca3b6" />
+
+## Search and filter option
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/a631c3da-4561-48d5-a6b1-c9f08dfffdc6" />
+
+## Sweet collections page
+
+<img width="1612" height="920" alt="image" src="https://github.com/user-attachments/assets/0a107766-dcd3-4561-96a1-ed91020424a7" />
+
+## Customer cart page
+
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/18db63a2-abbf-4988-97ad-e6e98828cf39" />
+
+## Customer checkout page
+
+<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/a3aba1c6-5ebd-49cd-930a-e8715b8b252d" />
+
+## Customer order history page
+
+<img width="1523" height="918" alt="image" src="https://github.com/user-attachments/assets/38593430-1691-4de6-8fdd-e735ac514782" />
