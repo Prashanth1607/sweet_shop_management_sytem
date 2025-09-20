@@ -196,3 +196,6 @@ The combination of AI assistance and TDD methodology resulted in a robust, well-
 
 ## License
 
+## Overview with Images
+<img width="1909" height="972" alt="image" src="https://github.com/user-attachments/assets/fe7c688d-5d40-4cec-af55-be7c142f1e59" />
+
