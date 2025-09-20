@@ -185,16 +185,7 @@ The AI assistance significantly accelerated development while maintaining high c
 
 The combination of AI assistance and TDD methodology resulted in a robust, well-tested application that demonstrates modern full-stack development practices.
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Write tests for new functionality
-4. Implement the feature
-5. Ensure all tests pass
-6. Submit a pull request
-
-## License
 
 ## Overview with Images
 
@@ -271,3 +262,4 @@ The combination of AI assistance and TDD methodology resulted in a robust, well-
 ## Customer order history page
 
 <img width="1523" height="918" alt="image" src="https://github.com/user-attachments/assets/38593430-1691-4de6-8fdd-e735ac514782" />
+
