@@ -199,3 +199,32 @@ The combination of AI assistance and TDD methodology resulted in a robust, well-
 ## Overview with Images
 <img width="1909" height="972" alt="image" src="https://github.com/user-attachments/assets/fe7c688d-5d40-4cec-af55-be7c142f1e59" />
 
+## Home Page with sweets listing
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/99bf1437-7f5e-473a-b584-f904ad2dcd32" />
+
+## Footer Page
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/b35a5f43-7b49-4758-b380-c988be9edcf4" />
+
+## Contact us Page
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/7a65c5bd-3eba-41b8-8d89-2d0507eab035" />
+
+## Bulk order Page
+<img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/5d1abd92-a371-4b63-a564-0f485becbdb8" />
+
+## Admin workflow
+
+## Admin Login
+<img width="1912" height="958" alt="image" src="https://github.com/user-attachments/assets/d2937e90-c740-46af-a1e8-e3c5cc034933" />
+
+## Admin Panel
+<img width="1919" height="584" alt="image" src="https://github.com/user-attachments/assets/714d3355-2602-4273-82a0-e34950fe0a31" />
+
+## Inventory Management with search and filtering
+<img width="1895" height="921" alt="image" src="https://github.com/user-attachments/assets/ba5bc92e-0e85-4c2c-b4ad-a9d52e55c15d" />
+
+## Stock edit option
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/4e973c1f-dd17-4727-ad5b-1d7d17b2175a" />
+
+## Admin Sweet adding page
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/3de07d14-4968-4dfd-bb2f-b6862db30270" />
+
